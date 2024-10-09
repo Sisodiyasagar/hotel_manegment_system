@@ -1,0 +1,22 @@
+[
+    {"roomNo": 101,"floorNo": 1, "status": "available"},
+    {"roomNo": 102, "floorNo": 1, "status": "available"},
+    {"roomNo": 103, "floorNo": 1, "status": "available"},
+    {"roomNo": 104, "floorNo": 1, "status": "available"},
+    {"roomNo": 105, "floorNo": 1, "status": "available"},
+    {"roomNo": 106, "floorNo": 1, "status": "available"},
+    {"roomNo": 107, "floorNo": 1, "status": "available"},
+    {"roomNo": 108, "floorNo": 1, "status": "available"},
+    {"roomNo": 109, "floorNo": 1, "status": "available"},
+    {"roomNo": 110, "floorNo": 1, "status": "available"},
+    {"roomNo": 111, "floorNo": 2, "status": "available"},
+    {"roomNo": 112, "floorNo": 2, "status": "available"},
+    {"roomNo": 113, "floorNo": 2, "status": "available"},
+    {"roomNo": 114, "floorNo": 2, "status": "available"},
+    {"roomNo": 115, "floorNo": 2, "status": "available"},
+    {"roomNo": 116, "floorNo": 2, "status": "available"},
+    {"roomNo": 117, "floorNo": 2, "status": "available"},
+    {"roomNo": 118, "floorNo": 2, "status": "available"},
+    {"roomNo": 119, "floorNo": 2, "status": "available"},
+    {"roomNo": 120, "floorNo": 2, "status": "available"}
+]
